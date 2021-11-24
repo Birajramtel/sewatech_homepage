@@ -284,23 +284,20 @@
         </div>
         <div class="container">
             <h3 class="d-flex justify-content-center mt-5 mb-5"><u>OUR CLIENTS</u></h3>
-            <div class="row">
-                <div class="col-3">
-                    <img src="img/client/client_1.png" alt="Bisheshwar Prashad Koirala">
-                </div>
-                <div class="col-3">
-                    <img src="img/client/client_2.png" alt="Naava Resort and Retreat">
-                </div>
-                <div class="col-3">
-                    <img src="img/client/client_3.png" alt="Miyuna Real Estate">
-                </div>
-                <div class="col-3">
-                    <img src="img/client/client_4.png" alt="Clarissa">
-                </div>
-            </div>
         </div>
-        <div class="owl-carousel">
-           
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img src="img/client/client_1.png" alt="Bisheshwar Prashad Koirala">
+            </div>
+            <div class="item">
+                <img src="img/client/client_2.png" alt="Naava Resort and Retreat">
+            </div>
+            <div class="item">
+                <img src="img/client/client_3.png" alt="Miyuna Real Estate">        
+            </div>
+            <div class="item">
+                <img src="img/client/client_4.png" alt="Clarissa">
+            </div>
         </div>
         
                 
@@ -317,12 +314,26 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     -->
+    <script>
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 0,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+    </script>
     <script src="jquery.min.js"></script>
     <script src="owlcarousel/owl.carousel.min.js"></script>
-    <script>
-        $(document).ready(function(){
-        $(".owl-carousel").owlCarousel();
-        });
-    </script>
+    
   </body>
 </html>
