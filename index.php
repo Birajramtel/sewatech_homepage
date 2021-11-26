@@ -56,7 +56,6 @@
         </div>
     <!-- Banner Image  -->
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-            
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="img/homepage/Banner_image.png" class="d-block img-fluid" alt="Import And Export">
