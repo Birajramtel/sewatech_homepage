@@ -238,29 +238,29 @@
                 <div class="card text-center blog">
                     <img src="img/blog/blog_1.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Less price project in Nepal</h2>
-                        <a href="#" class="middle_btn">Learn more</a>
+                        <h2 class="middle flex-wrap">SEO practice</h2>
+                        <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_2.png" class="card-img image" alt="Blog">
-                    <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Less price project in Nepal</h2>
-                        <a href="#" class="middle_btn">Learn more</a>
+                    <div class="card-img-overlay d-flex justify-content-center align-items-center flex-wrap">
+                        <h2 class="middle">SEO practice</h2>
+                        <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_3.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Less price project in Nepal</h2>
-                        <a href="#" class="middle_btn">Learn more</a>
+                        <h2 class="middle">Domain Name</h2>
+                        <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>                
                 <div class="card text-center blog">
                     <img src="img/blog/blog_4.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Less price project in Nepal</h2>
-                        <a href="#" class="middle_btn">Learn more</a>
+                        <h2 class="middle">Website</h2>
+                        <a href="#" class="btn btn_blog_pro btn-sm middle_btn p-2">Learn more</a>
                     </div>
                 </div>                
             </div>
