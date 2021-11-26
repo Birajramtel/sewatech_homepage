@@ -239,25 +239,28 @@
                     <img src="img/blog/blog_1.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
                         <h2 class="middle">Less price project in Nepal</h2>
-                        <a href="middle_btn">Learn more</a>
+                        <a href="#" class="middle_btn">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_2.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <a href="#" class="btn btn-lg card-body middle">Less price project in Nepal</a>
+                        <h2 class="middle">Less price project in Nepal</h2>
+                        <a href="#" class="middle_btn">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_3.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <a href="#" class="btn btn-lg card-body img-fluid middle">Less price project in Nepal</a>
+                        <h2 class="middle">Less price project in Nepal</h2>
+                        <a href="#" class="middle_btn">Learn more</a>
                     </div>
                 </div>                
                 <div class="card text-center blog">
                     <img src="img/blog/blog_4.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <a href="#" class="btn btn-lg card-body img-fluid middle">Less price project in Nepal</a>
+                        <h2 class="middle">Less price project in Nepal</h2>
+                        <a href="#" class="middle_btn">Learn more</a>
                     </div>
                 </div>                
             </div>
@@ -287,16 +290,16 @@
         </div>
         <div class="owl-carousel owl-theme">
             <div class="item">
-                <img src="img/client/client_1.png" alt="Bisheshwar Prashad Koirala">
+                <img src="img/client/client_5.png" class="p-5 w-50" alt="Bisheshwar Prashad Koirala">
             </div>
             <div class="item">
-                <img src="img/client/client_2.png" alt="Naava Resort and Retreat">
+                <img src="img/client/client_2.png" class="p-5" alt="Naava Resort and Retreat">
             </div>
             <div class="item">
-                <img src="img/client/client_3.png" alt="Miyuna Real Estate">        
+                <img src="img/client/client_3.png" class="p-5" alt="Miyuna Real Estate">        
             </div>
             <div class="item">
-                <img src="img/client/client_4.png" alt="Clarissa">
+                <img src="img/client/client_4.png" class="p-5" alt="Clarissa">
             </div>
         </div>
         <!-- Techology we use Closed -->
