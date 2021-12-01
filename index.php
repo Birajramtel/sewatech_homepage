@@ -98,12 +98,13 @@
             <div class="row">
                 <div class="card border-light mb-5">
                     <div class="row g-0">
-                        <div class="col-md-4 d-flex justify-content-center d-none d-md-block">
+                        <h3 class="card-title d-block d-md-none d-flex justify-content-center mb-2"><b>Website Design and Development</b></h3>
+                        <div class="col-md-4 d-flex justify-content-center">
                             <img src="./img/homepage/website_design_and_development.png" class="img-fluid rounded-start" alt="Website Design and Development">
                         </div>
                         <div class="col-md-8 d-flex justify-content-center my-0">
                             <div class="card-body">
-                                <h3 class="card-title"><b>Website Design and Development</b></h3>
+                                <h3 class="card-title d-none d-md-block"><b>Website Design and Development</b></h3>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec sed porta ullamcorper donec augue 
                                     non gravida. Cras dictumst ut blandit ipsum sit sit ullamcorper eget. . Odio nisl ultricies id id. Molestie quis 
                                     mauris adipiscing sed urna risus, purus. Semper tortor aliquam ultrices mattis mollis elementum iaculis. Volutpat, 
@@ -112,18 +113,19 @@
                                 <button class="btn btn_pro">View Details</button>
                             </div>
                         </div>
-                        <div class="col-md-4 d-flex justify-content-center d-block d-md-none">
-                            <img src="./img/homepage/website_design_and_development.png" class="img-fluid rounded-start" alt="Website Design and Development">
-                        </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="card border-light mb-5">
                     <div class="row g-0">
+                        <h3 class="card-title d-block d-md-none d-flex justify-content-end mb-2"><b>Mobile Application</b></h3>
+                        <div class="col-md-4 d-flex justify-content-end d-block d-md-none">
+                            <img src="./img/homepage/mobile_application.png" class="img-fluid rounded-start" alt="Mobile Application">
+                        </div>
                         <div class="col-md-8 d-flex justify-content-center my-0">
                             <div class="card-body">
-                                <h3 class="card-title"><b>Mobile Application</b></h3>
+                                <h3 class="card-title d-none d-md-block"><b>Mobile Application</b></h3>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec sed porta ullamcorper donec augue 
                                     non gravida. Cras dictumst ut blandit ipsum sit sit ullamcorper eget. . Odio nisl ultricies id id. Molestie quis 
                                     mauris adipiscing sed urna risus, purus. Semper tortor aliquam ultrices mattis mollis elementum iaculis. Volutpat, 
@@ -132,7 +134,7 @@
                                 <button class="btn btn-danger btn_pro">View Details</button>
                             </div>
                         </div>
-                        <div class="col-md-4 d-flex justify-content-center">
+                        <div class="col-md-4 d-flex justify-content-end d-none d-md-block">
                             <img src="./img/homepage/mobile_application.png" class="img-fluid rounded-start" alt="Mobile Application">
                         </div>
                     </div>
@@ -141,12 +143,13 @@
             <div class="row">
                 <div class="card border-light mb-5">
                     <div class="row g-0">
-                        <div class="col-md-4 d-flex justify-content-center d-none d-md-block">
+                        <h3 class="card-title d-block d-md-none d-flex justify-content-center"><b>Business Content Writing</b></h3>
+                        <div class="col-md-4 d-flex justify-content-center">
                             <img src="./img/homepage/business_content_writing.png" class="img-fluid rounded-start" alt="Business Content Writing">
                         </div>
-                        <div class="col-md-8 d-flex justify-content-center my-0">
+                         <div class="col-md-8 d-flex justify-content-center my-0">
                             <div class="card-body">
-                                <h3 class="card-title"><b>Business Content Writing</b></h3>
+                                <h3 class="card-title d-none d-md-block"><b>Business Content Writing</b></h3>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec sed porta ullamcorper donec augue 
                                         non gravida. Cras dictumst ut blandit ipsum sit sit ullamcorper eget. . Odio nisl ultricies id id. Molestie quis 
                                         mauris adipiscing sed urna risus, purus. Semper tortor aliquam ultrices mattis mollis elementum iaculis. Volutpat, 
@@ -155,18 +158,20 @@
                                 <button class="btn btn-danger btn_pro">View Details</button>
                             </div>
                         </div>
-                        <div class="col-md-4 d-flex justify-content-center d-block d-md-none">
-                            <img src="./img/homepage/business_content_writing.png" class="img-fluid rounded-start" alt="Business Content Writing">
-                        </div>
+                        
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="card border-light mb-5">
                     <div class="row g-0">
+                        <h3 class="card-title d-block d-md-none d-flex justify-content-center"><b>Photography and Videography</b></h3>
+                        <div class="col-md-4 d-flex justify-content-center d-block d-md-none">
+                            <img src="./img/homepage/photography_and_videography.png" class="img-fluid rounded-start" alt="Photography and Videography">
+                        </div>
                         <div class="col-md-8 d-flex justify-content-center my-0">
                             <div class="card-body">
-                                <h3 class="card-title"><b>Photography and Videography</b></h3>
+                                <h3 class="card-title d-none d-md-block"><b>Photography and Videography</b></h3>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec sed porta ullamcorper donec augue 
                                     non gravida. Cras dictumst ut blandit ipsum sit sit ullamcorper eget. . Odio nisl ultricies id id. Molestie quis 
                                     mauris adipiscing sed urna risus, purus. Semper tortor aliquam ultrices mattis mollis elementum iaculis. Volutpat, 
@@ -175,7 +180,7 @@
                                 <button class="btn btn-danger btn_pro">View Details</button>
                             </div>
                         </div>
-                        <div class="col-md-4 d-flex justify-content-center">
+                        <div class="col-md-4 d-flex justify-content-center d-none d-md-block">
                             <img src="./img/homepage/photography_and_videography.png" class="img-fluid rounded-start" alt="Photography and Videography">
                         </div>
                     </div>
