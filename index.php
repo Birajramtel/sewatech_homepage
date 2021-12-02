@@ -249,28 +249,28 @@
                 <div class="card text-center blog">
                     <img src="img/blog/blog_1.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle flex-wrap">SEO practice</h2>
+                        <span class="middle flex-wrap"><strong> Wondering how to make your SEO practice in Nepal rock</strong></span>
                         <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_2.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center flex-wrap">
-                        <h2 class="middle">SEO practice</h2>
+                        <span class="middle"><strong> Have a well functioning website for your business</strong></span>
                         <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>
                 <div class="card text-center blog">
                     <img src="img/blog/blog_3.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Domain Name</h2>
+                        <span class="middle"><strong>What is a Domain Name</strong></span>
                         <a href="#" class="btn btn_blog_pro middle_btn p-2">Learn more</a>
                     </div>
                 </div>                
                 <div class="card text-center blog">
                     <img src="img/blog/blog_4.png" class="card-img image" alt="Blog">
                     <div class="card-img-overlay d-flex justify-content-center align-items-center">
-                        <h2 class="middle">Website</h2>
+                        <span class="middle"><strong> These admission strategies make college seat always full.</strong></span>
                         <a href="#" class="btn btn_blog_pro btn-sm middle_btn p-2">Learn more</a>
                     </div>
                 </div>                
