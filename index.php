@@ -301,19 +301,19 @@
         </div>
         <div class="container owl-carousel owl-theme d-flex flex-wrap">
             <div class="item">
-                <img src="img/client/client_7.png" class="p-2 owl_image1" alt="Bisheshwar Prashad Koirala">
+                <img src="img/client/client_1.png" class="pt-5 pb-5 owl_image1" alt="Ichyo Ryokan">
             </div>
             <div class="item">
-                <img src="img/client/client_6.png" class="p-2 owl_image1" alt="Naava Resort and Retreat">
+                <img src="img/client/client_2.png" class="p-5 owl_image1" alt="Smartsolar">
             </div>
             <div class="item">
-                <img src="img/client/client_11.png" class="p-2 owl_image1" alt="Ichyo Ryokan">        
+                <img src="img/client/client_3.png" class="p-5 owl_image1" alt="Shine Hoshimi Academy">        
             </div>
             <div class="item">
-                <img src="img/client/client_13.png" class="p-2 owl_image1" alt="Clarissa">
+                <img src="img/client/client_4.png" class="p-5 owl_image1" alt="Naava Resort and Retreat">
             </div>
             <div class="item">
-                <img src="img/client/client_8.png" class="p-2 owl_image1 bg-none" alt="Clarissa">
+                <img src="img/client/client_5.png" class="p-5 owl_image1 bg-none" alt="Clarissa">
             </div>
         </div>
         <!-- Techology we use Closed -->
