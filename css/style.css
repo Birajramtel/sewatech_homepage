@@ -103,3 +103,6 @@ body {
   background-color: #0089CF;
   color: #FFF; 
 }
+.owl-carousel .owl-item img {
+  width: auto !important;
+}

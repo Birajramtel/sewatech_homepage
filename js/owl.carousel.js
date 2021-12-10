@@ -2412,7 +2412,7 @@
 		var target = $(event.target),
 			item = target.closest('.' + this._core.settings.itemClass),
 			video = this._videos[item.attr('data-video')],
-			width = video.width || '100%',
+			width = video.width || 'auto',
 			height = video.height || this._core.$stage.height(),
 			html,
 			iframe;

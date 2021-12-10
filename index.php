@@ -299,18 +299,21 @@
         <div class="container">
             <h3 class="d-flex justify-content-center mt-5 mb-5"><u>OUR CLIENTS</u></h3>
         </div>
-        <div class="owl-carousel owl-theme">
+        <div class="container owl-carousel owl-theme d-flex flex-wrap">
             <div class="item">
-                <img src="img/client/client_5.png" class="p-5 w-50" alt="Bisheshwar Prashad Koirala">
+                <img src="img/client/client_7.png" class="p-2 owl_image1" alt="Bisheshwar Prashad Koirala">
             </div>
             <div class="item">
-                <img src="img/client/client_2.png" class="p-5" alt="Naava Resort and Retreat">
+                <img src="img/client/client_6.png" class="p-2 owl_image1" alt="Naava Resort and Retreat">
             </div>
             <div class="item">
-                <img src="img/client/client_3.png" class="p-5" alt="Miyuna Real Estate">        
+                <img src="img/client/client_11.png" class="p-2 owl_image1" alt="Ichyo Ryokan">        
             </div>
             <div class="item">
-                <img src="img/client/client_4.png" class="p-5" alt="Clarissa">
+                <img src="img/client/client_13.png" class="p-2 owl_image1" alt="Clarissa">
+            </div>
+            <div class="item">
+                <img src="img/client/client_8.png" class="p-2 owl_image1 bg-none" alt="Clarissa">
             </div>
         </div>
         <!-- Techology we use Closed -->
